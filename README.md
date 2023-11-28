@@ -7,6 +7,5 @@ Neural mechanisms of expert persuasion on willingness to pay for sugar. Front. B
 Link to the article: https://www.frontiersin.org/articles/10.3389/fnbeh.2023.1147140/full
 
 # Tutorial
-We have created a tutorial video on how to run this software: https://disk.yandex.com/client/disk/Naturalistic%20MVPA%20toolbox
-The tutorial starts with a theoretical introduction to the topic of MVPA analysis of EEG data and
+We have created [a tutorial video](https://disk.yandex.com/d/FFrM96W7X49fIA) on how to run this software. The tutorial starts with a theoretical introduction to the topic of MVPA analysis of EEG data and
 it continues with an illustration of how to run this software.
